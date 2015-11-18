@@ -21,13 +21,13 @@ all spruced up
 all teed up
 all the livelong day
 all the world's a stage
-All the world's a stage
+all the world's a stage
 all things to all people
 all washed up
 all wet
 along for the ride
 along those lines
-American as apple pie
+american as apple pie
 an earful
 earful
 an easy mark
@@ -41,7 +41,7 @@ any old thing
 anything goes
 around the bend
 as a matter of fact
-as far as I know
+as far as i know
 as full as a tick
 ask for the moon
 asleep at the switch
@@ -75,7 +75,7 @@ bar hop
 bar none
 bare one's soul
 bark is worse than his bite
-His bark is worse than his bite
+his bark is worse than his bite
 basta la musica
 bat a thousand
 bat an eye
@@ -110,9 +110,9 @@ beat round the ears
 beat your time
 beat one's time
 beauty is in the eye of the beholder
-Beauty is in the eye of the beholder
+beauty is in the eye of the beholder
 beauty is only skin deep
-Beauty is only skin deep
+beauty is only skin deep
 become of
 becomes you
 become
@@ -123,13 +123,13 @@ been around
 have been around
 been had
 be had
-before you can say Jack Robinson
+before you can say jack robinson
 beg off
 beg to differ
 beg somebody's pardon
 beg pardon
 beggars can't be choosers
-Beggars can't be choosers
+beggars can't be choosers
 beg the question
 behind the curve
 behind the eight ball
@@ -160,9 +160,9 @@ better late than never
 better off
 better than sex
 better the devil you know...
-Better the devil you know than the one you don't
+better the devil you know than the one you don't
 better to have loved...
-Better to have loved and lost than never to have loved at all
+better to have loved and lost than never to have loved at all
 between sixes and sevens
 at sixes and sevens
 between the devil and the deep blue sea
@@ -181,7 +181,7 @@ big deal
 big hairy deal
 big, fat, hairy deal
 big fucking deal
-BFD
+bfd
 big picture
 big rig
 big wheel
@@ -192,9 +192,9 @@ blue-sky thinking
 bigger than life
 larger than life
 the bigger they are, the harder they fall
-The bigger they are, the harder they fall
+the bigger they are, the harder they fall
 birds of a feather flock together
-Birds of a feather flock together
+birds of a feather flock together
 bit by bit
 bit off
 bite off more than one can chew
@@ -214,7 +214,7 @@ blind date
 blind leading the blind
 blood from a stone
 blood is thicker than water
-Blood is thicker than water
+blood is thicker than water
 blood is up
 blood money
 bloody well
@@ -236,7 +236,7 @@ blow one's cover
 blow sky high
 blow the lid off
 blow this joint
-blow this Popsicle stand
+blow this popsicle stand
 blow to kingdom come
 blow somebody away
 blow away
@@ -399,7 +399,7 @@ by golly
 by gosh
 by guess or by gosh
 by guess or by golly
-by guess or by God
+by guess or by god
 by its very nature
 by nature
 by jove
@@ -431,7 +431,7 @@ can't put my hands on it
 can't see for looking
 can't see the forest for the trees
 can't stand
-Canada goose
+canada goose
 capture the imagination
 car buff
 card-carrying member
@@ -511,7 +511,7 @@ cheesed off
 chew him out
 chicken feed
 chicken in every pot
-chicken on a June bug
+chicken on a june bug
 chickens come home to roost
 chief cook and bottle washer
 chin wag
@@ -524,7 +524,7 @@ chomping at the bit
 choose sides
 choose up sides
 chow down
-Christmas graduate
+christmas graduate
 chuck it
 chunk of change
 circles around you
@@ -638,11 +638,11 @@ crazy like a fox
 cream of the crop
 cream you
 cross my heart and hope to die
-cross over Jordan
+cross over jordan
 cross over to the other side
 cross paths
 cross someone
-cross that bridge when I come to it
+cross that bridge when i come to it
 cross your fingers
 cruising for a bruising
 crush on
@@ -675,7 +675,7 @@ damaged goods
 damned if you do and damned if you don't
 dampen your spirits
 dance with the one who brought you
-dapper Dan
+dapper dan
 dark horse
 darken a church door
 darn it
@@ -700,7 +700,7 @@ dead tired
 dead to the world
 dead wrong
 dead-cat bounce
-dead-eye Dick
+dead-eye dick
 deal me in
 death row
 death warmed over
@@ -712,7 +712,7 @@ deep six
 deep, dark secret
 deke you
 deked out of his jock
-Denver boot
+denver boot
 deserve credit
 devil you say
 dickens of a time
@@ -796,7 +796,7 @@ don't go away mad; just go away
 don't hand me that
 don't have a cow
 don't knock it
-don't know him from Adam
+don't know him from adam
 don't know the first thing about it
 don't know the half of it
 don't know whether you're coming or going
@@ -838,7 +838,7 @@ down the line
 down the pike
 down the road
 down the tubes
-down to a T
+down to a t
 down to brass tacks
 down to earth
 down to the short strokes
@@ -911,7 +911,7 @@ duke's mixture
 dumb as a sack of hammers
 dumber than a box of rocks
 dump on
-Dumpster diving
+dumpster diving
 duty calls
 dyed in the wool
 dying seconds
@@ -952,7 +952,7 @@ have egg on one's face
 eighty-six
 eke out a living
 electronic superhighway
-Emmetism
+emmetism
 end justifies the means
 end of the line
 enough is enough
@@ -1049,7 +1049,7 @@ fend for yourself
 fender bender
 fever breaks
 few and far between
-Fibber McGee's closet
+fibber mcgee's closet
 fickle finger of fate
 fifth business
 fifth column
@@ -1118,7 +1118,7 @@ flat out
 flattery will get you nowhere
 fleeting glance
 flesh out
-Fletcherize your food
+fletcherize your food
 flew the coop
 flip you for it
 flip your lid
@@ -1126,7 +1126,7 @@ float your boat
 flog a dead horse
 floor it
 floor you
-Florida green
+florida green
 flunk out
 fly by the seat of your...
 fly in the face of
@@ -1145,7 +1145,7 @@ foot the bill
 footloose and fancy free
 for a dog's age
 for a song
-for all the tea in China
+for all the tea in china
 for better or worse
 for crying out loud
 for dear life
@@ -1159,7 +1159,7 @@ for laughs
 for long
 for love nor money
 for openers
-for Pete's sake
+for pete's sake
 for sure
 for the birds
 for the fun of it
@@ -1203,13 +1203,13 @@ from time to time
 front man
 front me
 front runner
-frosty Friday
+frosty friday
 fuddle duddle
 fudge it
 full as a tick
 full blast
 full blown
-full Monty
+full monty
 full of herself
 full out
 full plate
@@ -1227,7 +1227,7 @@ gaggle of geese
 game for anything
 game one
 game over
-Gang of Four
+gang of four
 gang up on
 garage kept
 gathering dust
@@ -1235,7 +1235,7 @@ gear up
 gee whiz
 gee willickers
 geezer gap
-Generation X
+generation x
 get a bang out of
 get a charge out of
 get a fix on
@@ -1386,7 +1386,7 @@ ghetto blaster
 ghost of a chance
 gild the lily
 gimme a break
-girl Friday
+girl friday
 give 110%
 give a black eye
 give a hoot
@@ -1540,8 +1540,8 @@ go with the flow
 go without
 go wrong
 god awful
-God bless the Duke of Argyle
-God rest his soul
+god bless the duke of argyle
+god rest his soul
 going concern
 going down
 going gets rough
@@ -1558,7 +1558,7 @@ golden years
 golly gee
 gone to pot
 gone to the dogs
-GONZALEZ!
+gonzalez!
 good afternoon
 good arm
 good bet
@@ -1620,12 +1620,12 @@ greased lightning
 greasy kid's stuff
 greasy spoon
 great guns
-Great One
-great Scot
+great one
+great scot
 great shakes
-Great White Hope
-Great White North
-Greek to me
+great white hope
+great white north
+greek to me
 green about (around) the gills
 green stuff
 green thumb
@@ -1640,8 +1640,8 @@ grinding halt
 grinning like a bushel basketful of possum heads
 groaty to the max
 ground me
-Group of Five
-Group of Seven
+group of five
+group of seven
 grow a tail
 grow on you
 grow up
@@ -1826,7 +1826,7 @@ heart is in the right place
 heat is on
 heaven forbid
 heaven help us
-heavens to Betsy
+heavens to betsy
 heavy day
 heavy duty
 heavy foot
@@ -1864,7 +1864,7 @@ hill of beans
 hire on
 his nibs
 his own man
-His Royal Highness
+his royal highness
 hit and miss
 hit home
 hit it off
@@ -1892,8 +1892,8 @@ hit the skids
 hit the spot
 hit town
 hitch in your getalong
-Hobson's choice
-hokey Dinah
+hobson's choice
+hokey dinah
 hold a candle
 hold a grudge
 hold a meeting
@@ -1923,10 +1923,10 @@ holding the bag
 hole up
 hollow leg
 holy cow
-holy Moses
+holy moses
 holy pile
 holy smoke
-holy Toledo
+holy toledo
 home free
 home stretch
 honesty is the best policy
@@ -1980,9 +1980,9 @@ hurry up
 hurt my feelings
 hush up
 hushed up
-I smell where you're stepping
-I'll be a monkey's uncle
-I'm afraid so
+i smell where you're stepping
+i'll be a monkey's uncle
+i'm afraid so
 icing on the cake
 idiot lights
 if a mussel doesn't open don't eat it
@@ -2021,7 +2021,7 @@ in a split second
 in a stew
 in a tight spot
 in a tizzy
-in Abraham's bosom
+in abraham's bosom
 in agreement
 in any way, shape or form
 in bad faith
@@ -2102,7 +2102,7 @@ in the lurch
 in the making
 in the meantime
 in the money
-in the Monford lane
+in the monford lane
 in the mood
 in the nick of time
 in the nude
@@ -2168,12 +2168,12 @@ it strikes me
 it takes one to know one
 it takes two to tango
 it was a lark
-it was Greek to me
+it was greek to me
 it works
 it's a crock
 it's a dilly
 dog's life
-it's a Duesey
+it's a duesey
 it's a go
 it's a jungle out there
 it's a matter of life and death
@@ -2205,12 +2205,12 @@ jerk me around
 jig is up
 jim dandy
 jimminy crickets
-Joe Who
+joe who
 jog your memory
-John Hancock
-John Henry
-Johnny Canuck
-Johnny on the spot
+john hancock
+john henry
+johnny canuck
+johnny on the spot
 join up
 join you
 joke around
@@ -2228,7 +2228,7 @@ jump start
 jump the gun
 jump through hoops
 jump to conclusions
-jumping Jehoshaphat
+jumping jehoshaphat
 jungle mouth
 junk food
 junk it
@@ -2274,7 +2274,7 @@ keep to yourself
 keep track
 keep under wraps
 keep up the good work
-keep up with the Joneses
+keep up with the joneses
 keep up with the times
 keep up
 keep you going
@@ -2430,7 +2430,7 @@ lend a hand
 lesser lights
 lesser of two evils
 let down
-let George do it
+let george do it
 let go of
 let her rip
 let it all hang out
@@ -2460,7 +2460,7 @@ lie down on the job
 life in the fast lane
 life is just a bowl of cherries
 life is not all guns and roses
-life of Riley
+life of riley
 life of the party
 life on the edge
 life you lead
@@ -2475,7 +2475,7 @@ lights are on but...
 like a bat out of hell
 like a bolt from the blue
 like a broken record
-like a chicken on a June bug
+like a chicken on a june bug
 like a dirty shirt
 like a hawk
 like a hot potato
@@ -2567,20 +2567,20 @@ losing it
 losing streak
 loss leader
 lost cause
-Lotus Land
+lotus land
 loud mouth
 love at first sight
-Love Bug
+love bug
 love conquers all
 love is blind
 love is where you find it
 love tap
 love them and leave them
-Lovers' Leap
+lovers' leap
 low on the totem pole
 low-ball him
 luck of the draw
-luck of the Irish
+luck of the irish
 luck out
 lucky break
 lucky dog
@@ -2716,7 +2716,7 @@ mind over matter
 mind the store
 mind your manners
 mind your own business
-mind your P's and Q's
+mind your p's and q's
 mint condition
 misery loves company
 miss out
@@ -2738,7 +2738,7 @@ money to burn
 monkey business
 monkey off my back
 monkey's uncle
-month of Sundays
+month of sundays
 moon them
 mop the floor with us
 mop up
@@ -2748,7 +2748,7 @@ more than meets the eye
 more than welcome
 more than you can shake a stick at
 mortal coil
-Mother Nature
+mother nature
 motherhood and apple pie
 mount a comeback
 mouth off
@@ -2760,7 +2760,7 @@ movers and shakers
 much obliged
 mull over
 mum's the word
-Murphy's Law
+murphy's law
 muscle in
 music to my ears
 musical chairs
@@ -2789,7 +2789,7 @@ neither fish nor fowl
 nerves of steel
 nervous breakdown
 nest egg
-Net surfer
+net surfer
 never mind
 never say die
 new blood
@@ -2881,10 +2881,10 @@ off with you
 off with
 off your high horse
 off your rocker
-offer I couldn't refuse
+offer i couldn't refuse
 oh my gosh
-okay, OK
-Old Boys' Club
+okay, ok
+old boys' club
 old coot
 old flame
 old goat
@@ -2960,7 +2960,7 @@ on the mend
 on the money
 on the move
 on the outs
-on the QT
+on the qt
 on the rails
 on the rise
 on the road
@@ -3084,12 +3084,12 @@ overdo it
 own medicine
 own up
 own worst enemy
-P's and Q's
+p's and q's
 pack a punch
 pack a rod
 pack it in
 pack of lies
-pack Uzis
+pack uzis
 pad an expense account
 paddle your own canoe
 pain in the butt
@@ -3172,7 +3172,7 @@ pit stop
 place on a pedestal
 plain as day
 plain as the nose on your face
-Plan B
+plan b
 plate is full
 play a big part
 play a joke on
@@ -3212,7 +3212,7 @@ play the heavy
 play the ponies
 play with fire
 plump full
-pocket Hercules
+pocket hercules
 pocket of resistance
 point a finger at
 point is well taken
@@ -3258,7 +3258,7 @@ price out
 price you have to pay
 pride goeth before a fall
 prima donna
-Prince Charming
+prince charming
 promise the moon
 proof of the pudding
 psych out
@@ -3378,7 +3378,7 @@ read my lips
 read them and weep
 read up on
 read you
-real McCoy
+real mccoy
 realize your potential
 really deaf
 ream out
@@ -3424,8 +3424,8 @@ rise to the occasion
 risky business
 road apple
 road to hell is paved...
-Roaring Twenties
-rob Peter to pay Paul
+roaring twenties
+rob peter to pay paul
 rob the cradle
 rock bottom
 rock the boat
@@ -3518,7 +3518,7 @@ salt away
 salt of the earth
 same here
 same to you
-Saskatchewan pheasant
+saskatchewan pheasant
 save a bundle
 save face
 save for a rainy day
@@ -3741,7 +3741,7 @@ slippery slope
 slo mo
 sloshed to the gills
 slow as a dead snail
-slow as molasses in January
+slow as molasses in january
 slow as molasses
 slow day
 slow down
@@ -3798,7 +3798,7 @@ soften your stance
 software piracy
 sold on
 soldier on
-solid as the Rock of Gibraltar
+solid as the rock of gibraltar
 some chick
 something borrowed, something blue
 something is haywire
@@ -3806,7 +3806,7 @@ something is rotten...
 something smells
 something snapped
 song and dance
-Sophie's choice
+sophie's choice
 soul mate
 sound asleep
 sound bite
@@ -3991,13 +3991,13 @@ suffer a setback
 suicide pass
 suit yourself
 suits you
-Sunday best
+sunday best
 sunset years
 super mint
 sure as hell
 sure bet
 sure thing
-surf the Net
+surf the net
 swallow that
 swallow your pride
 swear by
@@ -4147,7 +4147,7 @@ talk is cheap
 talk it over
 talk it up
 talk shop
-talk the leg off the lamb of God
+talk the leg off the lamb of god
 talk through your hat
 talk to the hand
 talk turkey
@@ -4183,7 +4183,7 @@ tender age of
 test drive
 test the water
 test your metal
-Thank Goodness It's Friday
+thank goodness it's friday
 thank goodness
 thank heavens
 thank your lucky stars
@@ -4192,7 +4192,7 @@ thanks a million
 that is that
 that takes the cake
 that'll be the day
-that'll be the frosty Friday
+that'll be the frosty friday
 that's a corker
 that's all she wrote
 that's cool
@@ -4218,9 +4218,9 @@ the best of both worlds
 the best things in life are free
 the best-laid plans of mice and men go oft astray
 the big 0
-The Big Apple
+the big apple
 the big cheese
-The Big O
+the big o
 the big picture
 the bigger they are the harder they fall
 the bitter end
@@ -4257,26 +4257,26 @@ the end of the line
 the end-all, be-all
 the eye of a needle
 the eye of the storm
-the F-word
+the f-word
 the family jewels
 the fat hit the fire
 the fickle finger of fate
 the fifth column
 the first leg
 the first pancake is always spoiled
-the full Monty
+the full monty
 the gloves are off
 the goat
 the going gets rough
 the going rate
-The Golden Rule
+the golden rule
 the gospel truth
 the grass is greener on the other side of the fence
-The Great One
-The Great White Hope
-The Great White North
-The Grim Reaper
-The Group of Seven
+the great one
+the great white hope
+the great white north
+the grim reaper
+the group of seven
 the handwriting is on the wall
 the hard way
 the heat is on
@@ -4297,7 +4297,7 @@ the last word
 the last word
 the laughing stock
 the lay of the land
-the life of Riley
+the life of riley
 the life of the party
 the lights are on but nobody's home
 the lion's share
@@ -4306,13 +4306,13 @@ the living end
 the long and the short of it
 the long arm of the law
 the loo
-the Lord helps those who help themselves
+the lord helps those who help themselves
 the lowdown
 the luck of the draw
-the luck of the Irish
+the luck of the irish
 the makings of
 the man in the middle
-the Man in the Moon
+the man in the moon
 the middleman
 the moment of truth
 the more the merrier
@@ -4337,7 +4337,7 @@ the powers that be
 the price you have to pay
 the proof of the pudding is in the eating
 the rabbit died
-the real McCoy
+the real mccoy
 the rest is gravy
 the rest is history
 the right stuff
@@ -4371,7 +4371,7 @@ the turn of the century
 the turning point
 the underground
 the upper hand
-the way I see it
+the way i see it
 the way to a man's heart is through his stomach
 the way you hold your mouth
 the wheels fall off
@@ -4398,7 +4398,7 @@ there's not much to choose between them
 there's nothing to it
 there's one born every minute
 there's something fishy
-there's something rotten in the state of Denmark
+there's something rotten in the state of denmark
 these parts
 thick as a brick
 things are looking up
@@ -4483,7 +4483,7 @@ time's a wasting
 time's up
 times were hard
 tin ear
-tin Lizzie
+tin lizzie
 tip a few
 tip of my tongue
 tip of the hat
@@ -4498,7 +4498,7 @@ tit for tat
 tits in a wringer
 to a fault
 to a man
-to a T
+to a t
 to be perfectly honest
 to beat the band
 to blame
@@ -4703,7 +4703,7 @@ walk through
 walk up
 wall flower
 want a piece of me
-want it so bad I can taste it
+want it so bad i can taste it
 want to make something of it
 warm up
 warmed over
@@ -4721,7 +4721,7 @@ watch over like a mother hawk
 watch over
 watch your every move
 watch your language
-watch your P's and Q's
+watch your p's and q's
 water down
 water under the bridge
 water-cooler talk
@@ -4744,7 +4744,7 @@ weather the storm
 weed out
 weigh in
 well heeled
-well I never
+well i never
 well in hand
 well off
 well taken
@@ -4769,8 +4769,8 @@ what it boils down to
 what the dickens
 what the hay
 what the heck
-what the Sam Hill
-what was I thinking of
+what the sam hill
+what was i thinking of
 what's cooking
 what's eating you
 what's going down

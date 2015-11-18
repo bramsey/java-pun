@@ -1,3 +1,4 @@
+gradle*
 *.bak
 *.swp
 *~.nib
