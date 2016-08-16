@@ -43,9 +43,10 @@ public class PunGeneratorTest {
         "that's a good one",
         "one for the money. two for the show.");
 
-    Rhyme rhyme = new Rhyme();
-    ReflectionUtil.setField(rhyme, "word", "one");
-    ReflectionUtil.setField(rhyme, "score", 300);
+    Rhyme rhyme = ImmutableRhyme.builder()
+        .word("one")
+        .score(300)
+        .build();
 
     stub(phraseService.getPhrases()).toReturn(phrases);
     stub(rhymeService.getRhymes(keyword))

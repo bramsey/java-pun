@@ -1,9 +1,18 @@
 package com.billiamram.puns;
 
-public class Rhyme {
-  protected String word;
-  protected Integer freq;
-  protected Integer score;
-  protected String flags;
-  protected String syllables;
+import org.immutables.value.Value;
+
+import java.util.Optional;
+
+@Value.Immutable
+public interface Rhyme {
+  String word();
+
+  Integer score();
+
+  Optional<Integer> freq();
+
+  Optional<String> flags();
+
+  Optional<String> syllables();
 }

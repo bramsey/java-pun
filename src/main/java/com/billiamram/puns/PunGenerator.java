@@ -42,8 +42,8 @@ public class PunGenerator {
     return phrases.stream()
         .filter(p -> getWordCount(p) > minWordCount)
         .flatMap(p -> rhymes.stream()
-            .filter(r -> r.score > minScore)
-            .map(r -> punifier.replaceAll(p, r.word, keyword)))
+            .filter(r -> r.score() > minScore)
+            .map(r -> punifier.replaceAll(p, r.word(), keyword)))
         .filter(Optional::isPresent)
         .map(Optional::get)
         .collect(Collectors.toList());

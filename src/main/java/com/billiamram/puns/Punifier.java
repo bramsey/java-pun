@@ -3,7 +3,7 @@ package com.billiamram.puns;
 import java.util.Optional;
 
 public class Punifier {
-  public Punifier() {
+  Punifier() {
   }
 
   Optional<String> replaceAll(String phrase,
