@@ -1,12 +1,14 @@
 package com.billiamram.puns;
 
-import retrofit.Call;
-import retrofit.http.GET;
-import retrofit.http.Query;
+
+import com.billiamram.puns.domain.Rhyme;
+import retrofit2.http.GET;
+import retrofit2.http.Query;
+import rx.Observable;
 
 import java.util.List;
 
 public interface RhymeClient {
   @GET("/talk?function=getRhymes&maxResults=0&lang=en")
-  Call<List<Rhyme>> getRhymes(@Query("word") String word);
+  Observable<List<Rhyme>> getRhymes(@Query("word") String word);
 }

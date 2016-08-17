@@ -1,5 +1,7 @@
 package com.billiamram.puns;
 
+import com.billiamram.puns.domain.ImmutableRhyme;
+import com.billiamram.puns.domain.Rhyme;
 import com.billiamram.puns.service.PhraseService;
 import com.billiamram.puns.service.RhymeService;
 import com.billiamram.puns.support.ReflectionUtil;

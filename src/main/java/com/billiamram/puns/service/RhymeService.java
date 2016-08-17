@@ -1,9 +1,8 @@
 package com.billiamram.puns.service;
 
-import com.billiamram.puns.Rhyme;
 import com.billiamram.puns.RhymeClient;
+import com.billiamram.puns.domain.Rhyme;
 
-import java.io.IOException;
 import java.util.Collections;
 import java.util.List;
 
@@ -15,14 +14,9 @@ public class RhymeService {
   }
 
   public List<Rhyme> getRhymes(String word) {
-    try {
-      return rhymeClient
-          .getRhymes(word)
-          .execute()
-          .body();
-    } catch (IOException e) {
-      e.printStackTrace();
-      return Collections.emptyList();
-    }
+    return rhymeClient
+        .getRhymes(word)
+        .toBlocking()
+        .firstOrDefault(Collections.emptyList());
   }
 }

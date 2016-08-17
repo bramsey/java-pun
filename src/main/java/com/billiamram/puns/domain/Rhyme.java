@@ -1,4 +1,4 @@
-package com.billiamram.puns;
+package com.billiamram.puns.domain;
 
 import org.immutables.value.Value;
 

@@ -2,7 +2,7 @@ package com.billiamram.puns;
 
 import java.util.Optional;
 
-public class Punifier {
+class Punifier {
   Punifier() {
   }
 

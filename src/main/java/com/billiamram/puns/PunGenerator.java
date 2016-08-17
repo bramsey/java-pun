@@ -1,16 +1,21 @@
 package com.billiamram.puns;
 
+import com.billiamram.puns.domain.GsonAdaptersDomain;
+import com.billiamram.puns.domain.Rhyme;
 import com.billiamram.puns.service.PhraseService;
 import com.billiamram.puns.service.RhymeService;
 import com.google.common.base.Splitter;
-import retrofit.GsonConverterFactory;
-import retrofit.Retrofit;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import retrofit2.Retrofit;
+import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory;
+import retrofit2.converter.gson.GsonConverterFactory;
 
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 
-public class PunGenerator {
+class PunGenerator {
 
   private Punifier punifier;
   private PhraseService phraseService;
@@ -20,7 +25,7 @@ public class PunGenerator {
   private int minScore;
   private int minWordCount;
 
-  protected PunGenerator() {
+  PunGenerator() {
   }
 
   private PunGenerator(Punifier punifier,
@@ -35,7 +40,7 @@ public class PunGenerator {
     this.minWordCount = builder.minWordCount;
   }
 
-  public List<String> generatePuns() {
+  List<String> generatePuns() {
     List<String> phrases = phraseService.getPhrases();
     List<Rhyme> rhymes = rhymeService.getRhymes(keyword);
 
@@ -53,7 +58,7 @@ public class PunGenerator {
     return Splitter.on(" ").splitToList(phrase).size();
   }
 
-  public static final class Builder {
+  static final class Builder {
 
     private final PhraseService phraseService;
     private final RhymeService rhymeService;
@@ -64,29 +69,29 @@ public class PunGenerator {
     private int minScore;
     private int minWordCount;
 
-    public Builder() {
+    Builder() {
       rhymeClient = getRhymeClient();
       punifier = getPunifier();
       rhymeService = getRhymeService();
       phraseService = getPhraseService();
     }
 
-    public Builder keyword(String keyword) {
+    Builder keyword(String keyword) {
       this.keyword = keyword;
       return this;
     }
 
-    public Builder minScore(int minScore) {
+    Builder minScore(int minScore) {
       this.minScore = minScore;
       return this;
     }
 
-    public Builder minWordCount(int minWordCount) {
+    Builder minWordCount(int minWordCount) {
       this.minWordCount = minWordCount;
       return this;
     }
 
-    public PunGenerator build() {
+    PunGenerator build() {
       return new PunGenerator(punifier, phraseService, rhymeService, this);
     }
 
@@ -102,10 +107,17 @@ public class PunGenerator {
       return new PhraseService();
     }
 
+    private Gson getGson() {
+      return new GsonBuilder()
+          .registerTypeAdapterFactory(new GsonAdaptersDomain())
+          .create();
+    }
+
     private RhymeClient getRhymeClient() {
       return new Retrofit.Builder()
           .baseUrl("http://rhymebrain.com")
-          .addConverterFactory(GsonConverterFactory.create())
+          .addConverterFactory(GsonConverterFactory.create(getGson()))
+          .addCallAdapterFactory(RxJavaCallAdapterFactory.create())
           .build()
           .create(RhymeClient.class);
     }
